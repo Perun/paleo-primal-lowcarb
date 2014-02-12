@@ -15,9 +15,11 @@ Gemeinsam mit viel Gemüse, stellen gutes Fleisch, Fisch, Meeresfrüchte und Eie
 
 Die Erklärung der einzelnen Begriffe ist sehr knapp und verkürzt, sie dient aber lediglich einem kurzen Überblick, damit man weiß worum es eigentlich überhaupt geht.
 
-Die einzelnen Ernährungsweisen unterschieden sich zjm teil stark von einander, haben aber einen gemeinsamen nenner: Getreide-produkte und fettarme Milchprodukte sollte man meiden.
+Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, haben aber einen gemeinsamen Nenner: Getreide-produkte und fettarme Milchprodukte sollte man meiden. Daher ist die kann sich die eindeutige Sortierung der Links manchmal als sehr schwer gestalten.
 
 ## Paleo-Links
+
+1. [Urgeschmack](http://www.urgeschmack.de) – eines der bekanntesten deutschsprachigen Weblogs. Am ehesten kann man dieses Blog in die Paleo-Ecke einsortieren. Viele Grundlagen-Artikel und noch mehr Rezepte.
 
 ## Primal-Links
 
