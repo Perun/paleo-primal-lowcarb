@@ -30,3 +30,7 @@ Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, 
 1. [Mark's Daily Apple](http://www.marksdailyapple.com) – ist ein sehr bekanntes englischsprachiges Weblog.
 
 ## LowCarb-Links
+
+## Sonstige Links
+
+[Vegetables](http://diagnosisdiet.com/food/vegetables/) – Nährstoff-Gehalt in pflanzlichen und tierischen Lebensmitteln.
