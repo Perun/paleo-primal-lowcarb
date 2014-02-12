@@ -13,7 +13,7 @@ Gemeinsam mit viel Gemüse, stellen gutes Fleisch, Fisch, Meeresfrüchte und Eie
 
 [**Lowcarb**](http://de.wikipedia.org/wiki/Low-Carb) ist eine Ernähungsweise bei der die Aufnahme von Kohlenhydraten (Zucker) gesenkt wird. Durch die Senkung der KH und der fettreichen Ernährung wird der Körper dazu gebracht fett zu verbrennen um die Energie zu gewinnen.
 
-Die Erklärung der einzelnen Begriffe ist sehr knapp und verkürzt, sie dient aber lediglich einem kurzen Überblock, damit man weiß worum es eigentlich überhaupt geht.
+Die Erklärung der einzelnen Begriffe ist sehr knapp und verkürzt, sie dient aber lediglich einem kurzen Überblick, damit man weiß worum es eigentlich überhaupt geht.
 
 Die einzelnen Ernährungsweisen unterschieden sich zjm teil stark von einander, haben aber einen gemeinsamen nenner: Getreide-produkte und fettarme Milchprodukte sollte man meiden.
 
