@@ -17,6 +17,10 @@ Die Erklärung der einzelnen Begriffe ist sehr knapp und verkürzt, sie dient ab
 
 Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, haben aber einen gemeinsamen Nenner: Getreide-Produkte und fettarme Milchprodukte sollte man meiden. Daher ist die kann sich die eindeutige Sortierung der Links manchmal als sehr schwer gestalten.
 
+### Aufbau des Dokuments
+
+Die Linkliste ist so aufgebaut, dass zuerst allgemeine Links zum jeweiligen Thema kommen und dann weiter unten die spezifischen Links zu den einzelnen Artikeln.
+
 ## Paleo-Links
 
 1. [Urgeschmack](http://www.urgeschmack.de) – eines der bekanntesten deutschsprachigen Weblogs. Am ehesten kann man dieses Blog in die Paleo-Ecke einsortieren. Viele Grundlagen-Artikel und noch mehr Rezepte.
@@ -24,6 +28,10 @@ Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, 
 3. [Deutsche Gesellschaft für Paläoernährung e.V.](http://palaeo-gesellschaft.de) – Website mit einigen Infos. Die [Facebook-Gruppe](https://www.facebook.com/groups/255817637868947/) des e.V ist recht aktiv.
 4. [What Is The Paleo Diet?](http://robbwolf.com/what-is-the-paleo-diet/) – welche Lebensmittel sollte man essen und welche meiden.
 5. [Dr. Loren Cordain](http://thepaleodiet.com) – der "Paleo-Papst". interessant auch sein Artikel zu einer Studie über die Paleo-Ernährung: [Long Term Scientific Verification of The Paleo Diet](http://thepaleodiet.com/long-term-scientific-verification-of-the-paleo-diet/).
+
+### Spezifische Palleo-Links
+
+1. [What Does A Ketogenic Paleo Diet Look Like?](http://www.paleoplan.com/2012/09-24/what-does-a-ketogenic-paleo-diet-look-like/) – ein Beispiel-Tag in der Ernährung von ejmanden der ketogen und paleo ernährt.
 
 ## Primal-Links
 
@@ -33,6 +41,8 @@ Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, 
 
 1. [Diet Doctor](http://www.dietdoctor.com) – ein sehr bekanntes, englischsprachiges Weblog eines schwedischen Arztes.
 2. [Cereal Killers: Don't fear Fat](http://www.cerealkillersmovie.com) – Film zum Thema LowCarb.
+3. [Weblog](http://eatingacademy.com/dr-peter-attia) eines Arztes und Sportlers der sich **ketogen** ernährt. [Ein Interview](http://asweetlife.org/feature/the-ketogenic-diet-and-peter-attias-war-on-insulin/) mit ihm.
+4. Berichte [von einigen Bodybildern](http://clearbreakthrough.com/keto-bodybuilding/keto-diet-bodybuilding-tips-and-tricks-to-a-rip-body-with-the-keto-diet/) die sich ketogen ernähren.
 
 ## Sonstige Links
 
