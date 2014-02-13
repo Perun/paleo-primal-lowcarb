@@ -13,9 +13,11 @@ Gemeinsam mit viel Gemüse, stellen gutes Fleisch, Fisch, Meeresfrüchte und Eie
 
 [**Lowcarb**](http://de.wikipedia.org/wiki/Low-Carb) ist eine Ernährungsweise bei der die Aufnahme von Kohlenhydraten (Zucker) gesenkt wird. Durch die Senkung der KH und der fettreichen Ernährung wird der Körper dazu gebracht fett zu verbrennen um die Energie zu gewinnen.
 
-Die Erklärung der einzelnen Begriffe ist sehr knapp und verkürzt, sie dient aber lediglich einem kurzen Überblick, damit man weiß worum es eigentlich überhaupt geht.
+[**Ketose**](http://de.wikipedia.org/wiki/Ketose_%28Stoffwechsel%29) ist ein Zustand des Körpers der durch fettreiche und kohlenhydratarme Ernährung erreicht wird. Dabei konzentriert sich der Körper hauptsächlich auf das Fett als den Energielieferanten. Ketogen kann man sich sowohl in den Varianten Paleo, Primal oder LowCarb ernähren. 
 
-Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, haben aber einen gemeinsamen Nenner: Getreide-Produkte und fettarme Milchprodukte sollte man meiden. Daher ist die kann sich die eindeutige Sortierung der Links manchmal als sehr schwer gestalten.
+**Hinweis:** Die Erklärung der einzelnen Begriffe ist sehr knapp und verkürzt, sie dient aber lediglich einem kurzen Überblick, damit man weiß worum es eigentlich überhaupt geht.
+
+Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, haben aber einen gemeinsamen Nenner: Getreide-Produkte und fettarme Milchprodukte sollte man meiden. Daher kann sich die eindeutige Sortierung der Links manchmal als sehr schwer gestalten.
 
 ### Aufbau des Dokuments
 
