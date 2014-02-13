@@ -22,8 +22,8 @@ Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, 
 1. [Urgeschmack](http://www.urgeschmack.de) – eines der bekanntesten deutschsprachigen Weblogs. Am ehesten kann man dieses Blog in die Paleo-Ecke einsortieren. Viele Grundlagen-Artikel und noch mehr Rezepte.
 2. [Paleo360.de](http://www.paleo360.de) – eine aktive deutsche Website.
 3. [Deutsche Gesellschaft für Paläoernährung e.V.](http://palaeo-gesellschaft.de) – Website mit einigen Infos. Die [Facebook-Gruppe](https://www.facebook.com/groups/255817637868947/) des e.V ist recht aktiv.
-4. [The Paleo Diet](http://thepaleodiet.com) – englischsprachige Website
-5. [What Is The Paleo Diet?](http://robbwolf.com/what-is-the-paleo-diet/) – welche Lebensmittel sollte man essen und welche meiden.
+4. [What Is The Paleo Diet?](http://robbwolf.com/what-is-the-paleo-diet/) – welche Lebensmittel sollte man essen und welche meiden.
+5. [Dr. Loren Cordain](http://thepaleodiet.com) – der "Paleo-Papst". interessant auch sein Artikel zu einer Studie über die Paleo-Ernährung: [Long Term Scientific Verification of The Paleo Diet](http://thepaleodiet.com/long-term-scientific-verification-of-the-paleo-diet/).
 
 ## Primal-Links
 
@@ -32,6 +32,7 @@ Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, 
 ## LowCarb-Links
 
 1. [Diet Doctor](http://www.dietdoctor.com) – ein sehr bekanntes, englischsprachiges Weblog eines schwedischen Arztes.
+2. [Cereal Killers: Don't fear Fat](http://www.cerealkillersmovie.com) – Film zum Thema LowCarb.
 
 ## Sonstige Links
 
