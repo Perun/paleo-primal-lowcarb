@@ -31,6 +31,8 @@ Die einzelnen Ernährungsweisen unterschieden sich zum teil stark von einander, 
 
 ## LowCarb-Links
 
+1. [Diet Doctor](http://www.dietdoctor.com) – ein sehr bekanntes, englischsprachiges Weblog eines schwedischen Arztes.
+
 ## Sonstige Links
 
 [Vegetables](http://diagnosisdiet.com/food/vegetables/) – Nährstoff-Gehalt in pflanzlichen und tierischen Lebensmitteln.
